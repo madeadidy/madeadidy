@@ -47,11 +47,6 @@ I enjoy learning new technologies and improving my problem-solving skills throug
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madeadidy&theme=default&hide_border=true" />
 </p>
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madeadidy&theme=default&hide_border=true" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
