@@ -42,7 +42,8 @@ Saya senang belajar teknologi baru dan mengasah kemampuan melalui proyek nyata.
 
 ## 🔥 Konsistensi Kontribusi
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madeadidy&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madeadidy" />
+
 </p>
 
 > *Streak akan terlihat setelah melakukan commit secara konsisten beberapa hari berturut-turut.*
