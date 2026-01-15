@@ -32,14 +32,14 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 
 ## 📊 Most Used Languages
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeadidy&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=madeadidy&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madeadidy&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=madeadidy&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 ## 🔥 Contribution Streak
