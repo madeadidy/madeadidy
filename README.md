@@ -1,25 +1,21 @@
-<h1 align="center">Hi, I'm Made Adi 👋</h1>
+<h1 align="center">Halo, saya Made Adi 👋</h1>
 <p align="center">
-  Web Developer • Coding Enthusiast • Continuous Learner
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madeadidy&show_icons=true&theme=default&hide_border=true" />
+  Web Developer • Penggiat Coding • Pembelajar Berkelanjutan
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I am a web and coding enthusiast with a strong interest in building clean, functional, and user-friendly websites.  
-I enjoy learning new technologies and improving my problem-solving skills through real projects.
+## 👨‍💻 Tentang Saya
+Saya memiliki minat di bidang web dan pemrograman, dengan fokus membangun website yang bersih, fungsional, dan mudah digunakan.  
+Saya senang belajar teknologi baru dan mengasah kemampuan melalui proyek nyata.
 
-- 🌱 Currently learning modern web technologies  
-- 🧠 Interested in frontend & basic backend development  
-- 🎯 Goal: Build impactful and maintainable web applications  
+- 🌱 Sedang mempelajari teknologi web modern  
+- 🧠 Tertarik pada frontend & backend dasar  
+- 🎯 Tujuan: membangun aplikasi web yang berdampak dan mudah dirawat  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Teknologi yang Digunakan
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -30,40 +26,44 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 
 ---
 
-## 📊 Most Used Languages
-<p>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madeadidy&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📊 Bahasa yang Paling Sering Digunakan
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=madeadidy&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madeadidy&layout=compact&hide_border=true" />
 </p>
 
-## 🔥 Contribution Streak
+---
+
+## 📈 Statistik GitHub
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madeadidy&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=madeadidy&show_icons=true&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- 🌐 **Personal Website** – Simple personal website using HTML, CSS, and JavaScript  
-- 📱 **Landing Page** – Responsive landing page design  
-- 🧩 **Web Practice Projects** – Small projects to sharpen coding skills  
+## 🔥 Konsistensi Kontribusi
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madeadidy&hide_border=true" />
+</p>
 
-> More projects are available in my repositories.
+> *Streak akan terlihat setelah melakukan commit secara konsisten beberapa hari berturut-turut.*
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Proyek Unggulan
+- 🌐 **Website Pribadi** – Website personal sederhana menggunakan HTML, CSS, dan JavaScript  
+- 📱 **Landing Page** – Desain landing page yang responsif  
+- 🧩 **Latihan Web** – Proyek kecil untuk mengasah kemampuan coding  
+
+> Proyek lainnya dapat dilihat di repository GitHub saya.
+
+---
+
+## 📫 Hubungi Saya
 - GitHub: [github.com/madeadidy](https://github.com/madeadidy)
-- Email: *(optional, tambahkan kalau mau)*
+- Email: *(opsional, bisa ditambahkan)*
 
 ---
 
 <p align="center">
-  <i>“Keep learning, keep building.”</i>
+  <i>“Terus belajar, terus membangun.”</i>
 </p>
