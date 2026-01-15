@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 I Made Adi Dharma Yasa!🎮✨
+Tagline singkat kamu di sini
 
-<!--
-**madeadidy/madeadidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+Deskripsi singkat tentang kamu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+Icon teknologi yang kamu pakai
+
+---
+
+## 📊 GitHub Stats
+Statistik otomatis
+
+---
+
+## 🚀 Projects
+List project terbaik kamu
+
+---
+
+## 📬 Contact
+Link sosial media
