@@ -30,7 +30,7 @@ Saya senang belajar teknologi baru dan mengasah kemampuan melalui proyek nyata.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/adobephotoshop" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" />
 
 </p>
 
@@ -71,7 +71,7 @@ Saya senang belajar teknologi baru dan mengasah kemampuan melalui proyek nyata.
 
 ## 📫 Hubungi Saya
 - GitHub: [github.com/madeadidy](https://github.com/madeadidy)
-- Email: *(opsional, bisa ditambahkan)*
+- Email: mahesandrajaya21@gmail.com
 
 ---
 
