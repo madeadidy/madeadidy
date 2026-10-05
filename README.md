@@ -56,7 +56,6 @@ Saya senang belajar teknologi baru dan mengasah kemampuan melalui proyek nyata.
 
 </p>
 
-> *Streak akan terlihat setelah melakukan commit secara konsisten beberapa hari berturut-turut.*
 
 ---
 
