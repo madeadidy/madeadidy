@@ -38,16 +38,15 @@ Saya senang belajar teknologi baru dan mengasah kemampuan melalui proyek nyata.
 
 ## 📊 Bahasa yang Paling Sering Digunakan
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madeadidy&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeadidy&layout=compact&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=madeadidy&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madeadidy&show_icons=true&hide_border=true" />
 </p>
-
 ---
 
 ## 🔥 Konsistensi Kontribusi
